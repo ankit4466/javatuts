@@ -21,6 +21,7 @@ public class CH14_string {
         System.out.println(nam.charAt(2));      //prints character at certain index
         System.out.println(nam.indexOf("o"));      //prints index at certain character
         System.out.println(nam.indexOf("g",2)); //prints index at certain character from index 2 onwards
+        System.out.println("DONE");
 
 
     }
